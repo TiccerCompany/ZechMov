@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "696442618675",
+    "firebase_url": "https://zechmov-a2539-default-rtdb.firebaseio.com",
+    "project_id": "zechmov-a2539",
+    "storage_bucket": "zechmov-a2539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696442618675:android:06868c6eb6645edbdaf446",
+        "android_client_info": {
+          "package_name": "com.example.zechmov2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7hjwYP69zeYgpV3EQo1gmsmb-f-smIwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
